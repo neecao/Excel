@@ -3,8 +3,8 @@ Welcome to my Excel Projects Portfolio! This repository showcases various projec
 
 ## Table of Contents
 - Project 1: [Bike Sales Dashboard]()
-- Project 2: [Data Cleaning](https://github.com/neecao/Excel/blob/main/Data%20Cleaning%20Excel.xlsx)
-- Project 3: [Coffee Sales Dashboard](https://github.com/neecao/Excel/blob/main/Coffee%20Sales%20Dashboard.xlsx)
+- Project 2: 
+- Project 3: 
 
 Project 1: Bike Sales Dashboard
 ==
@@ -33,6 +33,9 @@ Source: Mo Chen
 - Slicers: Add interactivity to the dashboard.
 - Lookup Functions: XLOOKUP, INDEX, MATCH.
 - Logical Functions: IF, nested IF
+- 
+#### File
+[Coffee Sales Dashboard](https://github.com/neecao/Excel/blob/main/Coffee%20Sales%20Dashboard.xlsx)
 
 Project 3: Data Cleaning and Transformation
 ==
@@ -45,3 +48,6 @@ Text Functions: Use functions like PROPER, TRIM
 Find and Replace: Efficiently clean data.
 Format data type DATE
 Remove duplicate
+
+#### File
+[Data Cleaning](https://github.com/neecao/Excel/blob/main/Data%20Cleaning%20Excel.xlsx)
