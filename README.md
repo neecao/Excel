@@ -54,3 +54,27 @@ Format data type DATE
 Remove duplicate
 
 #### [File](https://github.com/neecao/Excel/blob/main/Data%20Cleaning%20Excel.xlsx)
+
+Project 4: 
+==
+
+#### Objective
+To perform a comprehensive analysis of sales data to identify key trends, patterns, and insights that can inform business decisions.
+
+#### Dataset
+The dataset contains sales records with the following columns:
+
+- Date
+- Product ID
+- Product Name
+- Category
+- Sales Amount
+- Units Sold
+- Region
+#### Key Skills Demonstrated
+- Data Cleaning and Preparation
+- Data Analysis
+- Data Visualization
+- Pivot Tables
+- Advanced Excel Functions
+- Dashboard Creation
