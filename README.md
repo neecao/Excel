@@ -72,7 +72,7 @@ The dataset contains sales records with the following columns:
 - Units Sold
 - Region
 #### Key Skills Demonstrated
-- Data Cleaning and Preparation
+- Data Cleaning and Preparation: remove duplicates
 - Data Analysis
 - Data Visualization
 - Pivot Tables
